@@ -1,0 +1,2 @@
+# CreateNameCard
+这是一款用Python编写的自动化程序，可将Excel文件快速转换为Word文件，专门用于名片卡的制作。
